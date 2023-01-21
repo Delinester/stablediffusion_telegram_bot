@@ -1,1 +1,1 @@
-"# stablediffusion_telegram_bot" 
+A simple telegram bot that handle interactions with built Stable Diffusion model using gradio API
